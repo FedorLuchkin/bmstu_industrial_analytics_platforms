@@ -1,0 +1,1 @@
+# bmstu_industrial_analytics_platforms
