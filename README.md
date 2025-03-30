@@ -1,6 +1,12 @@
 # bmstu_industrial_analytics_platforms
 PROGRESS OF THE PROJECT
-> 1. lab1 - done
-> 2. lab2 - not started
-> 3. lab3 - not started
-> 4. lab4 - not started
+
+| task | model or dataset | status |
+| - | - | - |
+| lab1 | LLM | DONE |
+| lab2-4-1 | IRIS | DONE |
+| lab2-4-2 | electrocardiogram_m2 | not started |
+| lab2-4-3 | electrocardiogram_m3 | not started |
+| lab2-4-4 | EEG_recordings | not started |
+| lab2-4-5 | MI_EEGT | not started |
+| lab2-4-6 | MIT-BIH | not started |
