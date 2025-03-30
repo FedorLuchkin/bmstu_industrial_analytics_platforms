@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635225550331242215/e4550850157b42a493fa14821f655866/artifacts
+end_time: 1743276396753
+entry_point_name: ''
+experiment_id: '635225550331242215'
+lifecycle_stage: active
+run_id: e4550850157b42a493fa14821f655866
+run_name: incongruous-kite-231
+run_uuid: e4550850157b42a493fa14821f655866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743276350537
+status: 3
+tags: []
+user_id: fluch

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635225550331242215/39f30dcb0f684f2ca2a1902de670d985/artifacts
+end_time: 1743265001151
+entry_point_name: ''
+experiment_id: '635225550331242215'
+lifecycle_stage: active
+run_id: 39f30dcb0f684f2ca2a1902de670d985
+run_name: peaceful-foal-44
+run_uuid: 39f30dcb0f684f2ca2a1902de670d985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743265001092
+status: 4
+tags: []
+user_id: fluch

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635225550331242215/3c4110deff154368bebadaba6c230796/artifacts
+end_time: 1743296659333
+entry_point_name: ''
+experiment_id: '635225550331242215'
+lifecycle_stage: active
+run_id: 3c4110deff154368bebadaba6c230796
+run_name: bouncy-hog-372
+run_uuid: 3c4110deff154368bebadaba6c230796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296614253
+status: 3
+tags: []
+user_id: fluch
