@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/554819157492597828/697bbf00e2984843b991928f83cd81a3/artifacts
+end_time: 1743442797640
+entry_point_name: ''
+experiment_id: '554819157492597828'
+lifecycle_stage: active
+run_id: 697bbf00e2984843b991928f83cd81a3
+run_name: resilient-wasp-502
+run_uuid: 697bbf00e2984843b991928f83cd81a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743442755239
+status: 3
+tags: []
+user_id: fluch

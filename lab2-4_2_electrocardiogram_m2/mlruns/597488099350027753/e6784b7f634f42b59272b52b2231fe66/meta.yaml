@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/597488099350027753/e6784b7f634f42b59272b52b2231fe66/artifacts
+end_time: 1743428449864
+entry_point_name: ''
+experiment_id: '597488099350027753'
+lifecycle_stage: active
+run_id: e6784b7f634f42b59272b52b2231fe66
+run_name: mercurial-goose-235
+run_uuid: e6784b7f634f42b59272b52b2231fe66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743427647901
+status: 3
+tags: []
+user_id: fluch

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/554819157492597828
+creation_time: 1743442755047
+experiment_id: '554819157492597828'
+last_update_time: 1743442755047
+lifecycle_stage: active
+name: Iris_Classification_TPOT

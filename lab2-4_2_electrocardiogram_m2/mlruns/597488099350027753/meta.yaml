@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/597488099350027753
+creation_time: 1743425325791
+experiment_id: '597488099350027753'
+last_update_time: 1743425325791
+lifecycle_stage: active
+name: ECG_Classification

@@ -1,0 +1,6 @@
+CatMulticlass(
+  (linear): Linear(in_features=2382, out_features=2, bias=False)
+  (final_act): SoftmaxClip(
+    (smax): Softmax(dim=1)
+  )
+)

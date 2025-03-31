@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/597488099350027753/8b0ffa29a26a41178f5000fa74e70157/artifacts
+end_time: 1743427374245
+entry_point_name: ''
+experiment_id: '597488099350027753'
+lifecycle_stage: active
+run_id: 8b0ffa29a26a41178f5000fa74e70157
+run_name: gaudy-jay-581
+run_uuid: 8b0ffa29a26a41178f5000fa74e70157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743426581235
+status: 3
+tags: []
+user_id: fluch

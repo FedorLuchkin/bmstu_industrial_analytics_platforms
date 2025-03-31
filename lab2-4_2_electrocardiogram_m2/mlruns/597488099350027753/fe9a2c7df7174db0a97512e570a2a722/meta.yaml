@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/597488099350027753/fe9a2c7df7174db0a97512e570a2a722/artifacts
+end_time: 1743425672958
+entry_point_name: ''
+experiment_id: '597488099350027753'
+lifecycle_stage: active
+run_id: fe9a2c7df7174db0a97512e570a2a722
+run_name: flawless-ram-776
+run_uuid: fe9a2c7df7174db0a97512e570a2a722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743425325997
+status: 3
+tags: []
+user_id: fluch
