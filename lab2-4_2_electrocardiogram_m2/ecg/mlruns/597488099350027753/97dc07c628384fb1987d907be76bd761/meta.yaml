@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/597488099350027753/97dc07c628384fb1987d907be76bd761/artifacts
+end_time: 1743632384076
+entry_point_name: ''
+experiment_id: '597488099350027753'
+lifecycle_stage: active
+run_id: 97dc07c628384fb1987d907be76bd761
+run_name: nebulous-fish-446
+run_uuid: 97dc07c628384fb1987d907be76bd761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743631493283
+status: 3
+tags: []
+user_id: fluch
