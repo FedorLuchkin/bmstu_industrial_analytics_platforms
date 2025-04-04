@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/894102329784941331
+creation_time: 1743728037639
+experiment_id: '894102329784941331'
+last_update_time: 1743728037639
+lifecycle_stage: active
+name: RandomForest_ECG_Classification

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/894102329784941331/66886c085c334f8d9d0314a5f9c9e9e2/artifacts
+end_time: 1743728133334
+entry_point_name: ''
+experiment_id: '894102329784941331'
+lifecycle_stage: active
+run_id: 66886c085c334f8d9d0314a5f9c9e9e2
+run_name: useful-sow-524
+run_uuid: 66886c085c334f8d9d0314a5f9c9e9e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743728128672
+status: 3
+tags: []
+user_id: fluch

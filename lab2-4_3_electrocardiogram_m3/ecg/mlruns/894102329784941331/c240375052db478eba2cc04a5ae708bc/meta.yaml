@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/894102329784941331/c240375052db478eba2cc04a5ae708bc/artifacts
+end_time: 1743728044050
+entry_point_name: ''
+experiment_id: '894102329784941331'
+lifecycle_stage: active
+run_id: c240375052db478eba2cc04a5ae708bc
+run_name: awesome-ant-818
+run_uuid: c240375052db478eba2cc04a5ae708bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743728037799
+status: 3
+tags: []
+user_id: fluch
